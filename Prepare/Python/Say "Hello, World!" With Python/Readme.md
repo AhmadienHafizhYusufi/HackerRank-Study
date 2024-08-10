@@ -9,3 +9,6 @@ Print ```Hello, World!``` to stdout.
 
 **Sample Output**  
 ```Hello, World!```
+
+# Approach
+Add ```"Hello, World!"``` on the print statement.
