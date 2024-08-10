@@ -1,0 +1,1 @@
+This repository contains my solutions and notes as I tackle various challenges on HackerRank. Each solution includes the code I've written, along with explanations of the approach and logic used to solve the problem.
